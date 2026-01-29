@@ -1,2 +1,1 @@
-# ogospodi
-xz no ochen nado
+# численные методы
